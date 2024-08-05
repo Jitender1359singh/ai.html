@@ -8,6 +8,9 @@ body{
       overflow-x: hidden;
     background:url("https://wallpapercave.com/wp/wp13101220.jpg") no-repeat center/cover fixed;
 }
+.header{
+    width:500px;
+}
 button .past{
     padding-right: 20px;
     outline-style : none;
